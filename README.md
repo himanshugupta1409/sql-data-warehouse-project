@@ -2,8 +2,6 @@
 
 This project follows the **Medallion Architecture**, consisting of three layers: **Bronze, Silver, and Gold**.
 
-![Data Architecture](02_docs/data_architecture.png)
-
 ### Medallion Architecture Layers
 
 1. **🥉 Bronze Layer — Raw Data**
@@ -66,7 +64,4 @@ Develop SQL-based analytics to generate actionable insights into key business ar
 - **Sales Trends:** Examine sales patterns and track business performance over time.
 
 These insights will help stakeholders monitor key business metrics and make data-driven strategic decisions.
-
-For additional details, refer to the [Project Requirements](02_docs/requirements.md).
-
 ---
